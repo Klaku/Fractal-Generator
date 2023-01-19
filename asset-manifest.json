@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fractal-Generator/static/css/main.d4d9bc0f.css",
+    "main.js": "/Fractal-Generator/static/js/main.110cca89.js",
+    "index.html": "/Fractal-Generator/index.html",
+    "main.d4d9bc0f.css.map": "/Fractal-Generator/static/css/main.d4d9bc0f.css.map",
+    "main.110cca89.js.map": "/Fractal-Generator/static/js/main.110cca89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d9bc0f.css",
+    "static/js/main.110cca89.js"
+  ]
+}
